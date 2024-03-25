@@ -14,9 +14,9 @@ HTML/CSS: Used for structuring the web pages and styling the user interface.
 External APIs: Utilized to fetch real-time exchange rate data.
 
 ###  Usage
-1- Upon opening the application, you will see a form where you can input the amount and select the currencies for conversion.
-2- Once you've entered the desired amount and selected the currencies, click on the "Convert" button.
-3- The equivalent amount in the selected currency will be displayed below the form.
+-Upon opening the application, you will see a form where you can input the amount and select the currencies for conversion.<br/>
+-Once you've entered the desired amount and selected the currencies, click on the "Convert" button.<br/>
+-The equivalent amount in the selected currency will be displayed below the form.
 
 # Contributions
 Contributions to improve the project are welcome. If you find any bugs or have suggestions for enhancements, please feel free to open an issue or submit a pull request.
